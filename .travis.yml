@@ -35,3 +35,4 @@ after_success:
   - docker push marwaend22/udagram-api-user:v2
   - docker push marwaend22/udagram-frontend:v2
   - docker push marwaend22/reverseproxy:v2
+  
